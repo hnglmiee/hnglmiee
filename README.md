@@ -5,7 +5,7 @@
 
 - 🌷 Frontend Developer (ReactJS, ViteJS)
 
-- 📚 I'm currently learning **Figma**
+- 📚 I'm currently learning **Spring Boot**
 
 - 🔗 Backend Developer (NodeJS, .NET/.NET Core)
 
