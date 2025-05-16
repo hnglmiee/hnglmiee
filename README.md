@@ -3,7 +3,7 @@
 <h3 align="center">A passionate UI/UX designer and frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🌷 Software Developer
+- 🌷 Software Engineer Student
 
 - 📚 I'm currently learning **Spring Boot**
 
