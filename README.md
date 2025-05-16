@@ -3,13 +3,13 @@
 <h3 align="center">A passionate UI/UX designer and frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🌷 Frontend Developer (ReactJS, ViteJS)
+- 🌷 Software Developer
 
 - 📚 I'm currently learning **Spring Boot**
 
-- 🔗 Backend Developer (NodeJS, .NET/.NET Core)
+- 🔗 Backend Developer (Springboot, .NET/.NET Core)
 
-- 💙 Favorite Languages: .NET, JavaScript
+- 💙 Favorite Languages: .NET, Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
